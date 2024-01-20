@@ -1,6 +1,10 @@
 # Today I Learned
 
-Today I Learned is a website that users can share interesting and specific facts about something that they just found out.
+Designed and established a user-friendly website to allow visitors from any device to have the same perfect user experience, with the help of HTML, CSS, JavaScript, Node.js, and React. The goal of this application is basically to allow users to learn new facts that they didn't know about before. Users can vote on whether a fact is interesting, mind-blowing, or false.
+
+## Website Link
+
+https://today-i-learned-mukul.netlify.app/
 
 ## Table of Contents
 - [Overview](#overview)
@@ -26,11 +30,3 @@ What do you learn today?
 
 <img width="1512" alt="Screen Shot 2023-10-09 at 9 25 59 PM" src="https://github.com/chenlu-w/today-i-learned/assets/117595669/1b560c4a-1b54-4d5b-8844-6bec59cd920a">
 
-
-## Website Link
-
-https://today-i-learned-chenlu.netlify.app/
-
-## Credits
-
-Today I learned is a project created by Chenlu Wang while studying Udemy course. Crash Course: Build a Full-Stack Web App in a Weekend! https://www.udemy.com/course/full-stack-crash-course/learn/lecture/35022198#overview
