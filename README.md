@@ -4,7 +4,7 @@ Designed and established a user-friendly website to allow visitors from any devi
 
 ## Website Link
 
-today-i-learned-mukul.netlify.app
+today-i-learned-mukul.netlify.app/
 
 ## Table of Contents
 - [Overview](#overview)
